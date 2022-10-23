@@ -1,0 +1,35 @@
+#login-box{
+    border: 1px solid blue;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: #000000ae;
+    color: white;
+}
+#from{
+    background: url("https://imgs.search.brave.com/eX_wvZr8DF3EoQhG9dwrGLWAcpsqDTb_ws0QdTotZGE/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly93d3cu/ZWNlc3RhdGljb3Mu/Y29tL2ltYWdlc3Rh/dGljL2NsaXBwaW5n/L2NkMS84YzIvY2Qx/OGMyZDgxYzE5OThm/Yjk4Mjk1Y2YyNmVl/NzQwZjAvZWwtc2lz/dGVtYS1qdXJpZGlj/by1lbi1sYS1zb21i/cmEtZ3JhY2lhcy1h/bC1xdWUtbG9zLWVz/cGVjdWxhZG9yZXMt/Z2FuYW4tbXVjaG8t/ZGluZXJvLmpwZz9t/dGltZT0xNDczNzc4/OTQw") center; /* Primero agregue la imagen de fondo */
+    background-size: 100% auto; /* Establecer el tamaño del fondo */
+    background-repeat: no-repeat; /* Establecer el fondo para que no se repita la visualización */
+    padding: 1%;
+}
+.fondoCabPie{
+    background: rgb(17, 233, 75);
+    color: black;
+    padding: 1%;
+    text-align: center;
+}
+.fondoCabPie2{
+    background: rgb(17, 233, 75);
+    color: black;
+    padding: 1%;
+}
+.foot2{
+    border: 1px solid blue;
+    background: rgba(0, 0, 0, 0.601);
+    width: 40%;
+}
+.foot1{
+    border: 1px solid blue;
+    width: 20%;
+}

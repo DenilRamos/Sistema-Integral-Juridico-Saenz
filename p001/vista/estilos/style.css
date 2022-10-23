@@ -1,0 +1,26 @@
+h1 {
+    font-size: 45px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+} 
+#lemas{
+    border: 2px solid blue;
+    width: 40%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.827);
+    color: aliceblue;
+}
+#cuerpo{
+    background: url("../imagenes/fondo.jpg") center; 
+    background-size: 100% auto; 
+    background-repeat: no-repeat; 
+}
+#cabeza,#pie{
+    background: rgb(17, 233, 75);
+}
+#boton1,#boton2{
+    text-align: center;
+    border: 1px solid black;
+    width: 10%;
+}
